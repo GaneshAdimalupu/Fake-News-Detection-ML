@@ -29,5 +29,4 @@ Two models are implemented: Logistic Regression and Passive Aggressive Classifie
 
 ## Author
 
-[Your Name]
-
+GANESH ADIMALUPU
